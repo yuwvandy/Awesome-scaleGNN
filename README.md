@@ -8,3 +8,5 @@ If you feel there are papers with related topics missing, do not hesitate to let
 
 # Knowledge Distillation
 1. [CVPR 2020] **Distilling Knowledge from Graph Convolutional Networks** [[paper]](https://arxiv.org/abs/2003.10477)[[code]](https://github.com/ihollywhy/DistillGCN.PyTorch)
+2. [IJCAI 2021] **Graph-Free Knowledge Distillation for Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2105.07519.pdf)[[code]](https://github.com/Xiang-Deng-DL/GFKD)
+3. [International Journal of Computer Vision] **Knowledge Distillation: A Survey** [[paper]](https://arxiv.org/pdf/2006.05525.pdf)
