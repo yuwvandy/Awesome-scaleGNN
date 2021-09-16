@@ -16,6 +16,7 @@ If you feel there are papers with related topics missing, do not hesitate to let
 11. [Arxiv 2018] **Towards Efficient Large-Scale Graph Neural Network Computing**[[paper]](https://arxiv.org/pdf/1810.08403.pdf)
 12. [ICML 2021] **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**[[paper]](https://arxiv.org/pdf/2106.05609.pdf)[[code]](https://github.com/rusty1s/pyg_autoscale)
 13. [KDD Cup 2021] **OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs**[[paper]](https://arxiv.org/pdf/2103.09430.pdf)[[code]](https://github.com/snap-stanford/ogb)
+14. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** [[paper]](https://arxiv.org/abs/1806.01973)[[code]](https://github.com/yoonjong12/pinsage)
 
 # Knowledge Distillation
 1. [CVPR 2020] **Distilling Knowledge from Graph Convolutional Networks** [[paper]](https://arxiv.org/abs/2003.10477)[[code]](https://github.com/ihollywhy/DistillGCN.PyTorch)
